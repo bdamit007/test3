@@ -25,6 +25,7 @@ public class Catalogue implements Serializable{
      *
      * @return
      */
+    {';
     public String getCatName(){
         return this.catName;
     }
